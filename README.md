@@ -3,5 +3,5 @@ This work is currently in the revision stage and, if all goes well, will soon be
 Please note that you must use your academic email address, as we are happy to share the code with researchers from academic institutions before the paper is published.
 In this work, we conducted comparative experiments on twelve publicly available datasets, and the experimental results are as follows:
 <p align="center">
-<img src="./Fig/1750336137282.jpg" height = "400" width="800" alt="" align=center />
+<img src="./Fig/1750336137282.jpg" height = "800" width="400" alt="" align=center />
 </p>
