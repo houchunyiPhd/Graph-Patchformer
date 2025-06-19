@@ -5,3 +5,6 @@ In this work, we conducted comparative experiments on twelve publicly available 
 <div style="display: flex;">
   <img src="./Fig/1750336137282.jpg" alt="Image 1" width="300" style="margin-right:10px;" />
 </div>
+<p align="center">
+<img src="./Fig/1750336137282.jpg" height = "200" alt="" align=center />
+</p>
