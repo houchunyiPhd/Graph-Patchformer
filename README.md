@@ -13,3 +13,6 @@ In this work, we conducted comparative experiments on twelve publicly available 
 </p>
 
 The results of the ablation experiments are as follows:
+<p align="center">
+<img src="./Fig/1750337283222.jpg"  width="600" alt="" align=center />
+</p>
