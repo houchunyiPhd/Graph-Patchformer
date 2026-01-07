@@ -108,7 +108,7 @@ python -u run.py \
 The above is a example of **ECL** benchmark. Please use the hyperparameter combination settings script reported in our paper to reproduce the results of the comparison experiments.
 The random seeds used for the comparison experiments are **2021, 2022, 2023, 2024, and 2025**.
 However, we would like to clarify that although we have reported the seeds, this does not guarantee perfect reproduction of the results, as there are many factors that can affect the outcome, such as GPU type, computational precision, CUDA version, PyTorch version, NumPy version, and so on.
-However, according to our tests, performance actually improves when changing the experimental environment, such as running on the NVIDIA RTX4090. In any case, we have clarified all training and experimental details as much as possible. If you have any questions, please feel free to email us or ask in this repository. Thank you!
+Actually, according to our tests, performance improves when changing the experimental environment, such as running on the NVIDIA RTX4090. In any case, we have clarified all training and experimental details as much as possible. If you have any questions, please feel free to email us or ask in this repository. Thank you!
 
 
 
